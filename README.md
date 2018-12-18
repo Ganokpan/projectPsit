@@ -5,6 +5,9 @@
 
 [![Stylish Portfolio Preview](https://github.com/Ganokpan/projectPsit/blob/master/git/info/06.JPG)]
 
+ผลการศึกษา คือ สามารถแสดงผลเปอร์เซ็นความชอบในสิ่งเดียวกันของผู้เล่นจากการตอบคำถามเดียวกันได้ และยังสามารถแสดงโปรไฟล์ผู้เล่นคนอื่นๆที่ตอบคำถามเดียวกันได้อีกด้วย
+* [วิดีโอนำเสนอโปรเจ็ค](https://www.youtube.com/watch?v=MmYdWtI-cxU&feature=youtu.be)
+
 ## Download and Installation
 
 * [ติดตั้งflask](https://www.mindphp.com/%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/python-framework-flask/6439-flask-framework-web-developer-python.html)
@@ -12,7 +15,11 @@
 * ติดตั้ง Install MySQL Driver: `เปิด CMD python > scripts C:\Users\Your Name\AppData\Local\Programs\Python\Python36-32\Scripts>python -m pip install mysql-connector`
 * [สร้างฐานข้อมูลโดยใช้ MySQL Driver](https://www.w3schools.com/python/python_mysql_getstarted.asp)
 
-## Status
+## Group Member
+* นายศิรพัชร นาคะรัตนากร `61070219`
+* นางสาวกนกพรรณ ตันนิธิสถาพร `61070002`
+* นางสาวพีชนก ชูสมบัติ `61070146`
+* นางสาวชนกเนตร เนื้อทองดี `61070031`
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
