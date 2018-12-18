@@ -4,11 +4,14 @@ import mysql.connector
 from flask import Flask
 from flask import render_template
 from flask import request
+
 #ใข้ framework flask ในการทำ
 app = Flask(__name__)
+
 @app.route("/")
 def home():
     return render_template('home.html')
+
 @app.route('/save', methods=['GET'])
 def save(): #โมดูลแสดงข้อมูล
     #รับข้อมูลจาก home.html โดนส่งเป็น method GET ผ่าน URL
@@ -52,6 +55,7 @@ def save(): #โมดูลแสดงข้อมูล
     match = match*(100/allans)#คิดเป็น %
     #ทำการส่งออกค่าที่จะใช้แสดงผลในหน้าต่อไป
     return getData(mydb, mycursor, name, contact, imgurl, answer, match)
+
 @app.route('/save', methods=['GET'])
 def getData(mydb, mycursor, name, contact, imgurl, answer, match):
     likeu = [] #กำหนดตัวแปรเก็บ list ผู้คนที่ตอบเหมือนเรา
@@ -64,4 +68,5 @@ def getData(mydb, mycursor, name, contact, imgurl, answer, match):
     for x in myresult:
         likeu.append({'name': x[0] , 'contact': x[1], 'imgurl': x[2]})
     return render_template('chart.html', likeu=likeu, name=name, imgurl=imgurl, match="%.1f"%match)
-app.run(debug=True)
+
+app.run(debug=True,port=80)
