@@ -24,6 +24,7 @@
 * Total Days: 35 Days
 * Main Language: HTML
 * Other Language: Python, CSS, JavaScript
+* Database: My SQL
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 
