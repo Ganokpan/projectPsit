@@ -1,20 +1,9 @@
-# [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
+<h1>Phychology</h1>
 
-[Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
-
+โปรเจ็คนี้เป็นส่วนหนึ่งของวิชา Problem solving in information technology โปรเจ็คนี้เกิดจากแนวคิดที่ว่า ถ้าคนที่ชอบเหมือนกัน แล้วมาพบกันในโลกsocial media จะดีกว่าการพบกันโดยไม่ผ่านการคัดกรองหรือไม่ จึงจัดทำในรูปแบบเกมตอบคำถามและจัดเก็บข้อมูลในรูปแบบสถิติ เพื่อศึกษาความสัมพันธ์ของผู้คนจากสิ่งที่สนใจในสิ่งเดียวกัน
 ## Preview
 
-[![Stylish Portfolio Preview](https://startbootstrap.com/assets/img/templates/stylish-portfolio.jpg)](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)**
-
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-stylish-portfolio/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-stylish-portfolio.svg)](https://www.npmjs.com/package/startbootstrap-stylish-portfolio)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-stylish-portfolio.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-stylish-portfolio)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio?type=dev)
+[![Stylish Portfolio Preview](https://github.com/Ganokpan/projectPsit/blob/master/git/info/06.JPG)]
 
 ## Download and Installation
 
@@ -72,3 +61,8 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
+
+## Status
+
+[![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
